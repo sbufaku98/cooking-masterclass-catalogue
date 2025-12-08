@@ -19,7 +19,6 @@ export default {
 </script>
 
 <style>
-<style>
 .course-grid {
   display: flex;
   flex-wrap: wrap;

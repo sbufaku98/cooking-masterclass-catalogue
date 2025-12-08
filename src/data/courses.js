@@ -9,7 +9,7 @@ export const courses = [
   },
   {
     id: 2,
-    title: "Italian Pasta Mastery",
+    title: "Plating and Salad dressing skills",
     chef: "Chef Marco",
     price: 450,
     level: "Intermediate",
@@ -49,7 +49,7 @@ export const courses = [
   },
   {
     id: 7,
-    title: "Sunday famaly meals",
+    title: "Sunday family meals",
     chef: "Chef MaFaku",
     price: 1050,
     level: "Advanced",

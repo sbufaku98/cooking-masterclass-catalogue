@@ -12,7 +12,6 @@ export default {
 </script>
 
 <style>
-<style>
 .header-bar {
   background: #f5f5f5;
   padding: 20px;

@@ -9,6 +9,8 @@
   <div class="course-list">
     <div v-for="course in courses" :key="course.name" class="course-card">
       <h3>{{ course.name }}</h3>
+      <p>id: {{ course.id }}</p>
+      <p>title: {{ course.title }}</p>
       <p>Chef: {{ course.chef }}</p>
       <p>Level: {{ course.level }}</p>
       <p>Price: R{{ course.price }}</p>

@@ -1,6 +1,8 @@
 <template>
   <div class="card">
     <h3>{{ course.title }}</h3>
+    <p><strong>ID:</strong> {{ course.ID }}</p>
+    <p><strong>Title:</strong> {{ course.Title }}</p>
     <p><strong>Chef:</strong> {{ course.chef }}</p>
     <p><strong>Level:</strong> {{ course.level }}</p>
     <p><strong>Price:</strong> R{{ course.price }}</p>
