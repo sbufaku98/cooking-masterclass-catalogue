@@ -36,3 +36,6 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# cooking-masterclass-catalogue
+>>>>>>> 00acb70f19c52ca817410b75da2e8cbf54088716
